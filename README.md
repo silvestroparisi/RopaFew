@@ -2,7 +2,7 @@
 
 **Build your GDPR Article 30 record of processing — guided, bilingual, and entirely in your browser.**
 
-RopaFew is part of the **Few** toolkit, alongside [FirstFew](https://github.com/silvestroparisi/FirstFew), [FixFew](https://github.com/silvestroparisi/FixFew), [MaskFew](https://github.com/silvestroparisi/MaskFew), [ScrubFew](https://github.com/silvestroparisi/ScrubFew) and [AskFew](https://github.com/silvestroparisi/AskFew).
+RopaFew is part of the **Few** toolkit, alongside the rest of the suite (see the full list below).
 It helps small organisations produce the **record of processing activities (ROPA)** required by Article 30 of the GDPR — through a guided form, with a worked example and per-field guidance — and keeps every byte on your machine.
 
 It's a single, self-contained web page. No backend, no build step, no upload, no account, no tracking.
@@ -49,11 +49,13 @@ There's no backend. The whole tool is a single static page: no account, no uploa
 ## The Few toolkit
 
 - [**FirstFew**](https://silvestroparisi.github.io/FirstFew/) — prioritize the few that matter
-- [**FixFew**](https://silvestroparisi.github.io/FixFew/) — verify and remediate
+- [**FixFew**](https://silvestroparisi.github.io/FixFew/) — verify and remediate vulnerabilities
 - [**MaskFew**](https://silvestroparisi.github.io/MaskFew/) — anonymize a file before you share it
-- [**ScrubFew**](https://silvestroparisi.github.io/ScrubFew/) — strip hidden metadata before you share
 - [**AskFew**](https://silvestroparisi.github.io/AskFew/) — a private AI that runs in your browser
+- [**ScrubFew**](https://silvestroparisi.github.io/ScrubFew/) — strip hidden metadata before you share
 - **RopaFew** — build your GDPR Article 30 register
+- [**GapFew**](https://silvestroparisi.github.io/GapFew/) — a multi-framework compliance gap self-assessment
+- [**CloseFew**](https://silvestroparisi.github.io/CloseFew/) — turn your gaps into a remediation plan
 
 *GapFew (multi-framework gap assessment — GDPR, NIS2, ISO 27001, NIST) is on the way.*
 
